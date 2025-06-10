@@ -1,0 +1,40 @@
+2025-06-10 20:25:35,735 - CRITICAL - Ein unerwarteter Fehler hat die Anwendung beendet: unknown option "-lmargin"
+2025-06-10 20:26:25,117 - CRITICAL - Ein unerwarteter Fehler hat die Anwendung beendet: unknown option "-lmargin"
+2025-06-10 20:30:16,930 - INFO - Chatbot-UI initialisiert.
+2025-06-10 20:30:24,270 - ERROR - Fehler bei der Anfrage an Ollama: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2025-06-10 20:30:24,271 - ERROR - Ein Fehler ist aufgetreten: Verbindung zum Ollama-Server fehlgeschlagen.
+2025-06-10 20:30:32,047 - ERROR - Fehler bei der Anfrage an Ollama: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2025-06-10 20:30:32,048 - ERROR - Ein Fehler ist aufgetreten: Verbindung zum Ollama-Server fehlgeschlagen.
+2025-06-10 20:31:26,874 - INFO - Chatbot-UI initialisiert.
+2025-06-10 20:31:42,874 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:31:45,900 - INFO - Sprachausgabe erfolgreich für Text: 'How can I help you today?...'
+2025-06-10 20:32:10,783 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:32:14,413 - INFO - Sprachausgabe erfolgreich für Text: 'أloha. كيف يمكنني مساعدتك؟...'
+2025-06-10 20:32:33,196 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:32:38,213 - INFO - Sprachausgabe erfolgreich für Text: 'Ich wurde 2021 der Öffentlichk...'
+2025-06-10 20:32:46,488 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:32:54,734 - INFO - Verarbeitung durch Nutzer abgebrochen.
+2025-06-10 20:33:14,209 - INFO - Sprachausgabe erfolgreich für Text: 'Ich bin ein großes Sprachmodel...'
+2025-06-10 20:34:32,207 - INFO - Chatbot-UI initialisiert.
+2025-06-10 20:34:40,860 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:34:45,034 - INFO - Verarbeitung durch Nutzer abgebrochen.
+2025-06-10 20:34:45,101 - ERROR - Fehler bei der Sprachausgabe: 
+2025-06-10 20:34:55,022 - INFO - Chatbot-UI initialisiert.
+2025-06-10 20:35:03,546 - INFO - Höre zu...
+2025-06-10 20:35:08,789 - INFO - Erkenne Sprache...
+2025-06-10 20:35:10,996 - INFO - Erkannter Text: مرحبا كيفك شو اخبارك
+2025-06-10 20:35:12,535 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:35:24,411 - INFO - Sprachausgabe erfolgreich für Text: 'مرحبا! هل لديك أي قصة أو موضوع...'
+2025-06-10 20:35:31,045 - INFO - Höre zu...
+2025-06-10 20:35:34,839 - INFO - Erkenne Sprache...
+2025-06-10 20:35:35,774 - INFO - Erkannter Text: تحكي لي قصه ليلى والذئب
+2025-06-10 20:35:41,109 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:35:47,983 - INFO - Verarbeitung durch Nutzer abgebrochen.
+2025-06-10 20:35:48,062 - ERROR - Fehler bei der Sprachausgabe: 
+2025-06-10 20:42:10,799 - INFO - Moderne Chatbot-UI initialisiert.
+2025-06-10 20:42:46,655 - INFO - Antwort von Ollama erhalten.
+2025-06-10 20:42:46,809 - INFO - pyttsx3 Sprachausgabe erfolgreich für: 'Hallo! Ich hoffe, es geht dir ...'
+2025-06-10 20:43:04,823 - WARNING - Icons nicht gefunden. Buttons werden ohne Bilder angezeigt.
+2025-06-10 20:43:04,847 - INFO - Chatbot-UI initialisiert.
+2025-06-10 20:43:25,770 - INFO - Chatbot-UI initialisiert.
+2025-06-10 20:45:28,749 - INFO - Chatbot-UI initialisiert.
